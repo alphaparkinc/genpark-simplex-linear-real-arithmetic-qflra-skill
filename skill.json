@@ -1,0 +1,16 @@
+{
+  "name": "genpark-simplex-linear-real-arithmetic-qflra-skill",
+  "version": "1.0.0",
+  "description": "Dual Simplex SMT decision procedure solver for Quantifier-Free Linear Real Arithmetic (QF_LRA) constraint feasibility checking.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "qf-lra",
+    "smt-solver",
+    "simplex",
+    "linear-arithmetic",
+    "formal-verification"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
